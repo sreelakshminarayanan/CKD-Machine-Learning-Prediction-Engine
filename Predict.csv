@@ -1,0 +1,4 @@
+Age,Blood_Pressure,Specific_Gravity,Albumin,Sugar,Pus_Cell,Pus_Cell_clumps,Bacteria,Blood_Glucose,Blood_Urea,Serum_Creatinine,Sodium,Potassium,Hemoglobin,Packed_Cell_Volume,White_Blood_Cell_Count,Hypertension,Diabetes_Mellitus,Coronary_Artery_Disease,Appetite,Pedal_Edema,Anemia
+48,80,1,1,0,normal,notpresent,notpresent,121,36,1.2,140,4,15,45,7800,yes,yes,no,good,no,no
+7,50,1,1,0,normal,notpresent,notpresent,NA,18,2,137,4,11,40,6000,no,no,no,good,no,no
+62,80,0,0,3,normal,notpresent,notpresent,423,53,6,133,5,8,26,7500,no,yes,no,poor,no,yes
